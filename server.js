@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dot-env').config();
 const express = require('express');
 const connectDB = require('./src/config/db');
 
